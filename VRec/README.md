@@ -1,14 +1,10 @@
 ## Voice Recorder
 
-## 🔥 Do write these points 🔥
+#### Steps
+- Create a project and a virtual env using python -m venv virtualEnvironmentName 
+- Install libraries like sounddevice or pyaudio, wavio or scipy in virtual environment
+- Create a requirements.txt file
+- Import the required libraries in python file
+- Then the recording time can be set for a given number of seconds or for arbitrary time 
+- Now using wavio library we can write the recording into a “.wav” recording file
 
-Expectation - The program should have the following:
-- Install libraries (sounddevice or pyaudio)
-- Import libraries
-- The recording can be set for a given number of seconds or for arbitrary time (either is fine)
-- The code should generate a “.wav” recording file
-- The project should use virtual env and should contain requirements.txt file
-- The project should be added on Github with a README.md file containing the steps to install and run the project.
-- To submit the code - complete the git tutorial and push your code to GitHub and attach the link to the repository in the google classroom submission
-
-Note - Complete the virtual environment module first and create this project inside a virtual environment. Don’t worry if you’re stuck in this project, we are anyway going to discuss this in live sessions.
