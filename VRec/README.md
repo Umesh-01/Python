@@ -2,6 +2,7 @@
 
 #### Steps
 - Create a project and a virtual env using python -m venv virtualEnvironmentName 
+- Activate the virtual environment using <virtualEnvironmentName>\Scripts\activate.bat
 - Install libraries like sounddevice or pyaudio, wavio or scipy in virtual environment
 - Create a requirements.txt file
 - Import the required libraries in python file
