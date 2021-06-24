@@ -13,7 +13,7 @@ python -m venv <virtualEnvironmentName>
 - Install libraries like pandas, requests and beautifulsoup4 in virtual environment
 - Create a `requirements.txt` file
 - Import the required libraries in python file
-- Then go to the website you want to scrap
+- Then go to the website from where you want to scrap the data
 - Inspect the webpage to know what tags and elements you need to scrap for getting the required data
 - Now using the libraries write the code to scrap the data 
 - Use pandas to write or save the scraped data into a csv or excel file
